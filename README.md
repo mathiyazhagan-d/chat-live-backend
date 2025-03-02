@@ -61,7 +61,7 @@ This project is a real-time chat application built using WebSockets. It enables 
    ```  
 3. Start the frontend:  
    ```bash
-   npm run dev
+   npm run dev 
    ```  
 4. Open `http://localhost:3000` in the browser  
 
