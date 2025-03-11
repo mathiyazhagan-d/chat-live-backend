@@ -68,22 +68,22 @@ This project is a real-time chat application built using WebSockets. It enables 
 ## 🖼 Screenshots  
 
 ### 🔹 Login Page  
-<img src="https://github.com/mathiyazhagan-d/chat-live-frontend/public/screenshot/img (1).png" alt="Login Page" width="600">  
+<img src="https://raw.githubusercontent.com/mathiyazhagan-d/chat-live-frontend/refs/heads/main/public/screenshot/img%20(1).png" alt="Login Page" width="600">  
 
 ### 🔹 Signup Page  
-<img src="https://github.com/mathiyazhagan-d/chat-live-frontend/public/screenshot/img (2).png" alt="Signup Page" width="600">  
+<img src="https://raw.githubusercontent.com/mathiyazhagan-d/chat-live-frontend/refs/heads/main/public/screenshot/img%20(2).png" alt="Signup Page" width="600">  
 
 ### 🔹 Search User  
-<img src="https://github.com/mathiyazhagan-d/chat-live-frontend/public/screenshot/img (6).png" alt="Search User" width="600">  
+<img src="https://raw.githubusercontent.com/mathiyazhagan-d/chat-live-frontend/refs/heads/main/public/screenshot/img%20(6).png" alt="Search User" width="600">  
 
 ### 🔹 User Profile  
-<img src="https://github.com/mathiyazhagan-d/chat-live-frontend/public/screenshot/img (4).png" alt="Profile Page" width="600">  
+<img src="https://raw.githubusercontent.com/mathiyazhagan-d/chat-live-frontend/refs/heads/main/public/screenshot/img%20(4).png" alt="Profile Page" width="600">  
 
 ### 🔹 Group and Direct Chat  
-<img src="https://github.com/mathiyazhagan-d/chat-live-frontend/public/screenshot/img (3).png" alt="Group and Direct Chat" width="600">  
+<img src="https://raw.githubusercontent.com/mathiyazhagan-d/chat-live-frontend/refs/heads/main/public/screenshot/img%20(3).png" alt="Group and Direct Chat" width="600">  
 
 ### 🔹 Group Details Edit  
-<img src="https://github.com/mathiyazhagan-d/chat-live-frontend/public/screenshot/img (6).png" alt="Group Details Edit" width="600">  
+<img src="https://raw.githubusercontent.com/mathiyazhagan-d/chat-live-frontend/refs/heads/main/public/screenshot/img%20(5).png" alt="Group Details Edit" width="600">  
 
 ## 📝 Additional Notes  
 - Implemented **context API** to manage WebSocket connections globally.  
